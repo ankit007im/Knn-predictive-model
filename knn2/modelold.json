@@ -1,0 +1,82 @@
+{
+  "knnClassifier": {
+    "classDatasetMatrices": {
+      "0": {
+        "isDisposedInternal": false,
+        "shape": [
+          61,
+          1000
+        ],
+        "dtype": "float32",
+        "size": 61000,
+        "strides": [
+          1000
+        ],
+        "dataId": {},
+        "id": 184332,
+        "rankType": "2"
+      },
+      "1": {
+        "isDisposedInternal": false,
+        "shape": [
+          39,
+          1000
+        ],
+        "dtype": "float32",
+        "size": 39000,
+        "strides": [
+          1000
+        ],
+        "dataId": {},
+        "id": 312334,
+        "rankType": "2"
+      },
+      "2": {
+        "isDisposedInternal": false,
+        "shape": [
+          17,
+          1000
+        ],
+        "dtype": "float32",
+        "size": 17000,
+        "strides": [
+          1000
+        ],
+        "dataId": {},
+        "id": 510834,
+        "rankType": "2"
+      }
+    },
+    "classExampleCount": {
+      "0": 61,
+      "1": 39,
+      "2": 17
+    },
+    "exampleShape": [
+      1,
+      1,
+      1,
+      1000
+    ],
+    "trainDatasetMatrix": {
+      "isDisposedInternal": false,
+      "shape": [
+        117,
+        1000
+      ],
+      "dtype": "float32",
+      "size": 117000,
+      "strides": [
+        1000
+      ],
+      "dataId": {},
+      "id": 511181,
+      "rankType": "2"
+    }
+  },
+  "mapStringToIndex": [
+    "right",
+    "left",
+    "nohand"
+  ]
+}
