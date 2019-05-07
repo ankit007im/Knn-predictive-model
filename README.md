@@ -26,4 +26,6 @@ For your Key changes in  follwing button change the following
     save(knn, "model.json");
   }
   ```
-  The second file does same as first but it takes model which is saved and run it
+  The second file does same as first but it takes model which is saved and run it by
+  ```node sketch.js```
+   Enjoy~
